@@ -1,0 +1,69 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Inter-Bold.ttf",
+      "sha1": "f3a55daa485aea77a3225cdb628e025291b28f0b"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Medium.ttf",
+      "sha1": "d135ba8c8d7b74a8878a4a73794ddfa739fa7348"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Regular.ttf",
+      "sha1": "6177ac91c6fb7df9b09beda7802ea15699a88703"
+    },
+    {
+      "path": "src/assets/fonts/Inter-SemiBold.ttf",
+      "sha1": "49c4ab71faa7118520a21452906e04f1340c864c"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-Bold.ttf",
+      "sha1": "a6b63c832d12337efb3123f47863f54472c81bf5"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-ExtraBold.ttf",
+      "sha1": "01e9f1ed4df60771240fd42f5ac9dcaf398f110b"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-ExtraLight.ttf",
+      "sha1": "03f11f0309f7f955fe90e3fdf22fee5e60bada4e"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-Light.ttf",
+      "sha1": "67a7446c44660168ed179812753b03390858aa92"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-Medium.ttf",
+      "sha1": "d62e1b2498f65ea5bc20fc5e365d19239527b419"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-Regular.ttf",
+      "sha1": "036b14064c7b90b4b200f2730981effea5e58b15"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-SemiBold.ttf",
+      "sha1": "e423e112f4832916b05308934c10aa84fd14c607"
+    },
+    {
+      "path": "src/assets/fonts/NunitoSans-Bold.ttf",
+      "sha1": "1a43f6ab652eb0c71cd0d748bd8d4bf360903fe1"
+    },
+    {
+      "path": "src/assets/fonts/NunitoSans-Light.ttf",
+      "sha1": "32f3cecd9b6c0f67c1a6bec6886e2b8f160617f1"
+    },
+    {
+      "path": "src/assets/fonts/NunitoSans-Medium.ttf",
+      "sha1": "947e59a8d3586d17a5f8698ae2f371e580411cdb"
+    },
+    {
+      "path": "src/assets/fonts/NunitoSans-Regular.ttf",
+      "sha1": "c4bc36919dfa9ee086b71d7b2796fafc22249b97"
+    },
+    {
+      "path": "src/assets/fonts/NunitoSans-SemiBold.ttf",
+      "sha1": "0ec94b38226fe45cb85bad4cb5f884512bae6eb7"
+    }
+  ]
+}
